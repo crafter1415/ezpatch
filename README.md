@@ -131,6 +131,7 @@ x,y,zには**変更を加えるコマンド列の先頭 (大抵の場合xは-192
 [Jansi](https://fusesource.github.io/jansi/)  
 [JLine-Terminal-JNA](https://mvnrepository.com/artifact/org.jline/jline-terminal-jna)  
 [Java Native Access](https://github.com/java-native-access/jna)  
+*This software includes the work that is distributed in the Apache License 2.0*  
   
 (...見ての通り無駄に同じ機能のライブラリを複数使っているので後々どちらか一方を消すかもです)
 
