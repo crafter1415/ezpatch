@@ -81,7 +81,8 @@ FallingSandの落下時間上限への到達を回避したりすることが可
 
 #### ezpatch として実行する場合
 
-説明作成中...
+説明作成中...  
+進捗駄目です()
 
 <!--
 
@@ -122,6 +123,17 @@ x,y,zには**変更を加えるコマンド列の先頭 (大抵の場合xは-192
 **省略は可能ですが空白は不可能です**。
   
 -->
+## ライセンス
+
+本ソフトには以下のライブラリを用いています：  
+[JLine3](https://github.com/jline/jline3)  
+[JLine-Terminal-Jansi](https://mvnrepository.com/artifact/org.jline/jline-terminal-jansi)  
+[Jansi](https://fusesource.github.io/jansi/)  
+[JLine-Terminal-JNA](https://mvnrepository.com/artifact/org.jline/jline-terminal-jna)  
+[Java Native Access](https://github.com/java-native-access/jna)  
+*This software includes the work that is distributed in the Apache License 2.0*  
+  
+(...見ての通り無駄に同じ機能のライブラリを複数使っているので後々どちらか一方を消すかもです)
 
 ## 最後に
 
